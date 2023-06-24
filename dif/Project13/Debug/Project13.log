@@ -1,0 +1,6 @@
+﻿  Module.ixx
+C:\Users\artyo\source\repos\Project13\Project13\Module.ixx(10,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\artyo\source\repos\Project13\Project13\Module.ixx(11,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\artyo\source\repos\Project13\Project13\Module.ixx(12,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\artyo\source\repos\Project13\Project13\Module.ixx(13,15): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Project13.vcxproj -> C:\Users\artyo\source\repos\Project13\Debug\Project13.exe
